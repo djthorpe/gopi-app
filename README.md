@@ -18,4 +18,8 @@ the application. The targets are:
   * `make rpi` will install the application for Raspberry Pi;
   * `make clean` will run `go clean`.
 
+Without any modification a command `helloworld` is compiled and installed.
+You need to edit the files under `cmd/helloworld` in order to start
+developing your application.
+
 
